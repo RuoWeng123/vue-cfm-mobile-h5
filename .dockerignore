@@ -1,0 +1,10 @@
+.git
+.idea
+dist
+node_modules
+.dockerignore
+.DS_Store
+.gitignore
+.gitlab-ci.yml
+Dockerfile
+README.md
